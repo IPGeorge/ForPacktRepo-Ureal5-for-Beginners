@@ -46,7 +46,7 @@ All required assets are placed in the */Pangaea\_Assets* folder, including 3D mo
 
 
 * Project File: Pangaea.uproject
-* Unreal Engine Version: 5.3.2
+* Unreal Engine Version: 5.6.1
 
 
 
